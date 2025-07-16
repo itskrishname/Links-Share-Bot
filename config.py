@@ -1,4 +1,3 @@
-# +++ Modified By Yato [telegram username: @i_killed_my_clan & @ProYato] +++ # aNDI BANDI SANDI JISNE BHI CREDIT HATAYA USKI BANDI RAndi 
 import os
 from os import environ
 import logging
@@ -6,11 +5,11 @@ from logging.handlers import RotatingFileHandler
 
 # Recommended
 TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
-APP_ID = int(os.environ.get("APP_ID", ""))
-API_HASH = os.environ.get("API_HASH", "")
+APP_ID = int(os.environ.get("APP_ID", "24828197"))
+API_HASH = os.environ.get("API_HASH", "d36e278e89ebeb900aeda4128d413a77")
 
 # Main
-OWNER_ID = int(os.environ.get("OWNER_ID", "6497757690"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "7660990923"))
 PORT = os.environ.get("PORT", "8080")
 
 # Database
