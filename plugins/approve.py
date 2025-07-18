@@ -65,7 +65,7 @@ async def autoapprove(client, message: ChatJoinRequest):
         
         await client.send_photo(
             chat_id=user.id,
-            photo='https://telegra.ph/file/f3d3aff9ec422158feb05-d2180e3665e0ac4d32.jpg',
+            photo='https://files.catbox.moe/b07ydq.jpg',
             caption=caption,
             reply_markup=markup
         )
