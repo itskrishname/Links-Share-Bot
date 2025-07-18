@@ -35,7 +35,7 @@ ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/NEW_ANI
 ›› ʟᴀɴɢᴜᴀɢᴇ: <a href='https://docs.python.org/3/'>Pʏᴛʜᴏɴ 3</a>
 ›› ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ ᴠ2</a>
 ›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a>
-›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @SECRECT_BOT_UPDATES</b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
+›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @SECRECT_BOT_UPDATES</b></blockquote>""" # agli baar se koi repo public nhi krunga!!
 
 CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/NEW_ANIMES_HINDI_DUB_INDIA'>ᴀɴɪᴍᴇ INDIA</a>
 <blockquote expandable>›› ᴍᴏᴠɪᴇs: <a href='https://t.me/in_hindi_dub_korean_drama'>Kdrama</a>
@@ -43,7 +43,7 @@ CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.
 ›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟs: <a href='https://t.me/HENTAI_NAGARI'>ᴄᴏʀɴʜᴜʙ</a>
 ›› ᴍᴀɴʜᴡᴀ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/HENTAI_NAGARI'>ᴘxʀɴʜ</a>
 ›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/NEW_ANIMES_HINDI_DUB_INDIA'>ANIME INDIA</a>
-›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @SECRECT_BOT_UPDATES</b></blockquote>""" # Bhosdiwalo agar developer me Yato ka username hataya to agli baar se koi repo public nhi krunga!!
+›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @SECRECT_BOT_UPDATES</b></blockquote>""" # agli baar se koi repo public nhi krunga!!
 
 #--- ---- ---- --- --- --- - -- -  - - - - - - - - - - - --  - -
 # Default
@@ -52,7 +52,7 @@ USER_REPLY_TEXT = "⚠️ ғᴜᴄᴋ ʏᴏᴜ, ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ
 
 # Logging
 LOG_FILE_NAME = "links-sharingbot.txt"
-DATABASE_CHANNEL = int(os.environ.get("DATABASE_CHANNEL", "")) # Channel where user links are stored
+DATABASE_CHANNEL = int(os.environ.get("DATABASE_CHANNEL", "-1002836984967")) # Channel where user links are stored
 #--- ---- ---- --- --- --- - -- -  - - - - - - - - - - - --  - -
 
 try:
