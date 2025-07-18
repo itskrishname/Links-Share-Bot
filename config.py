@@ -37,7 +37,7 @@ ABOUT_TXT = """<b>›› ᴄᴏᴍᴍᴜɴɪᴛʏ: <a href='https://t.me/NEW_ANI
 ›› ᴅᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a>
 ›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: @SECRECT_BOT_UPDATES</b></blockquote>""" # agli baar se koi repo public nhi krunga!!
 
-CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/NEW_ANIMES_HINDI_DUB_INDIA'>ᴀɴɪᴍᴇ INDIA</a>
+CHANNELS_TXT = """<b>›› ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ: <a href='https://t.me/NEW_ANIMES_HINDI_DUB_INDIA'>ᴀɴɪᴍᴇ india</a>
 <blockquote expandable>›› ᴍᴏᴠɪᴇs: <a href='https://t.me/in_hindi_dub_korean_drama'>Kdrama</a>
 ›› Botchannel: <a href='https://t.me/SECRECT_BOT_UPDATES'>Botchannel</a>
 ›› ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟs: <a href='https://t.me/HENTAI_NAGARI'>ᴄᴏʀɴʜᴜʙ</a>
