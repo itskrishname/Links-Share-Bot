@@ -19,7 +19,7 @@
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": ""
+      "value": "24828197"
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
@@ -31,7 +31,7 @@
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": ""
+      "value": "d36e278e89ebeb900aeda4128d413a77"
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
